@@ -2,39 +2,38 @@
 
 ## Education
 - 2023 - Present MASc, Data Mining at Shahid Beheshti University						       		
-- 2017 - 2023 BASc, Theoretical and Mathematical Physics at Ferdowsi University of Mashhad        		
-- 2013 - 2017 Diploma, National Organization for Development of Exceptional Talents (NODET)
+- 2017 - 2023 BASc, Physics at Ferdowsi University of Mashhad        		
+- 2013 - 2017 Diploma, NODET
+
+## Academic Experience
+**Teacher Assistant**
+- 2023 Statistics
+- 2023 Fundamentals of Data Science
+- 2022 Data Exploration
+- 2022 Data Pre-processing
+- 2022 Elementary Python
+
+**Machine Learning Experience**
+- Image Classification and Captioning
+- Basic NLP Understanding
+- Diffusion Models
+- Implementations of Autoencoders, GANs
+- ANN Architectures: ResNet, DenseNet, ...
+- Object Detection
+- Image Recognition and Generation
+- Word2Vec, fastText
+- Seq2Seq Models, GPT, BERT
+- Transformers Various Tasks
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Data Scientist @ ICDS, Innovation Center for Data Science**
+- Worked on Large-scale Data Science Projects for Part Lastic Group and Astan Quds
+- Organized Various Data Science Related Courses and Workshops
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+**Creator @ Knowlenz, Science Channel**
+- Dubbing and Creating Scientific Content for Social Media
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+**Game Master @ Cane, Board-game and Escape-room Center**
+- Dubbing and Creating Scientific Content for Social Media
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
