@@ -9,8 +9,10 @@
 **Technical Skills**
 - Pyhton – SQL - Mathematica – C++ – Fortran – HTML/CSS – Javascript - GitHub
 - Jupyter, Google Collab, VS Code – Adobe Audition – Audacity – Adobe Photoshop – LaTeX
+
 **Lab Skills**
 - Classical Physics – Modern Physics – Modern Optics
+
 **Soft Skills**
 - Analytical Thinking – Team Working – Adaptability and Independence – Friendliness and Communication – Problem Solving
 
