@@ -1,5 +1,3 @@
-# Data Scientist
-
 ## Education
 - 2023 - Present MASc, Data Mining at Shahid Beheshti University GPA: 18.68/20 (4/4) 		
 - 2017 - 2023 BASc, Physics at Ferdowsi University of Mashhad        		
