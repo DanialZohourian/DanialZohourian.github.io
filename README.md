@@ -6,7 +6,7 @@
 - 2013 - 2017 Diploma, NODET
 
 ## Related Experience
-**Machine Learning Experience**
+**AI and ML Experience**
 - Information Retrieval; Retrieving Fashion Products from User Queries Using LangChain Chroma, Elasticsearch and Cohere
 - T Shirt Image Captioning using MiniCPM-Llama3-V-2.5 Model Based on T Shirt Aspects
 - Persian to English and English to Persian Translation of Fashion Related Content Using Llama-3-8b and gpt-4o-mini
@@ -16,17 +16,25 @@
 - Text Classification on AI or Human Generated Essays
 - Finantial Market Prediction on Forex Data
 - Various Model Fine-tuning and downstream tasks Using PyTorch
-- Presentor at the Computer Science Journal Club of Shahid Beheshti University
+- Presentor at the Computer Science Journal Club of SBU
 
 **Research Projects**
 - 2024 Thesis: Using LLMs in Agentic Workflows to Solve Mathematics
 - 2024 Research: Diabetic Retinopathy Fundus Image Classification
-- 2024 Personal Research: How to deal with Negation in Information Retrieval
+- 2024 Personal Research: How to deal with Negation in IR
+
+**Teacher's Assistant**
+- 2024 Advanced Data Mining
+- 2023 Statistics
+- 2023 Fundamentals of Data Science
+- 2022 Data Exploration
+- 2022 Data Pre-processing
+- 2022 Elementary Python
 
 ## Skills
 **Technical Skills**
-- Pyhton – SQL - Mathematica – C++ – Fortran – HTML/CSS – Javascript - GitHub
-- Jupyter, Google Collab, VS Code – Adobe Audition – Audacity – Adobe Photoshop – LaTeX
+- Pyhton – Flask - Neo4j - Mathematica – C++ – LangGraph - LangChain
+- VS Code – Adobe Audition – Audacity – Adobe Photoshop – LaTeX
 
 **Lab Skills**
 - Classical Physics – Modern Physics – Modern Optics
@@ -34,6 +42,9 @@
 **Soft Skills**
 - Analytical Thinking – Team Working – Adaptability and Independence – Friendliness and Communication – Problem Solving
 
+**Language Proficiency**
+- Persian: Native
+- English: Fluent (IELTS: 8)
 
 ## Work Experience
 **AI Engineer @ Arvin AI, Iran Polymer and Petrochemical Institute**
@@ -41,7 +52,7 @@
 - 2024 - Present
 
 **Data Scientist @ ICDS, Innovation Center for Data Science**
-- Worked on Large-scale Data Science Projects for Part Lastic Group and Astan Quds
+- Worked on Large-scale Data Science Projects for PLS
 - Organized Various Data Science Related Courses and Workshops
 - 2021 - 2023
 
